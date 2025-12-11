@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **manoj23@navgurukul.org**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1RIp4ByJuZSgFMU-eWi5wUpDlRLKP1xyx/view?usp=drive_link]([https://drive.google.com/file/d/1RIp4ByJuZSgFMU-eWi5wUpDlRLKP1xyx/view?usp=drive_link](https://drive.google.com/file/d/1sV-sNnZdAjmQM-AC3CAqx3Yg4iGlHEbw/view?usp=sharing))
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1sV-sNnZdAjmQM-AC3CAqx3Yg4iGlHEbw/view?usp=drive_link)
 
 - ⚡ Fun fact **I am Funny**
 
