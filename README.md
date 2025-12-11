@@ -81,8 +81,8 @@
         <td><img height="40" src="https://skillicons.dev/icons?i=git,github,gitlab"/></td>
     </tr>
     <tr>
-        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">Mobile:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=androidstudio,flutter"/></td>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: middle; border: none;">OS Systems:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=windows,linux"/></td>
     </tr>
 </table>
 </div>
