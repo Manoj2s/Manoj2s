@@ -119,4 +119,4 @@ Regarding any issues, feel free to drop a mail at — <a href="manojkumarsah7870
 </p>
 
 
-<p><a href="https://manoj-website.netlify.app" alt="manoj2s">Personal Website</a></p>
+<p><a href="https://manojkumarsah.netlify.app" alt="manoj2s">Personal Website</a></p>
